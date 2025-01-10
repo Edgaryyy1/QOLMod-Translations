@@ -1,7 +1,18 @@
 {
     "display_name_english": "Turkish",
     "display_name_native": "Türkçe",
-    "contributors": [T0D0],
+    "contributors": [
+    {
+        "username": "Fanguard",
+        "account-id": "21449475",
+        "icon-id": 1,
+        "primary-col": 12,
+        "secondary-col": 12,
+        "glow-enabled": true,
+        "glow-col": 12,
+        "death-effect-id": 0
+    }
+    ],
     "strings": {
         "Level": "Seviye",
         "Universal": "Evrensel",
